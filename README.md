@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh28-data" alt="harsh28-data" /></a> </p>
 
-- 🌱 I’m currently learning **numpy, pandas, sql, excel, power bi**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Python, SQL, Excel, Power bi**
 
 - 📫 How to reach me **theharshchaudhary28@gmail.com**
 
